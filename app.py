@@ -1,7 +1,7 @@
 import json
 from http.server import BaseHTTPRequestHandler, HTTPServer
 
-VERSION = "1.0"
+VERSION = "1.1"
 
 
 def health():
